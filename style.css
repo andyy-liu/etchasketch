@@ -15,9 +15,6 @@ body {
 }
 
 .container div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 6.25%;
     height: 6.25%;
     border: 1px black solid;
